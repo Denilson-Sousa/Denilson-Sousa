@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Denilson-Sousa
-- 👀 I’m interested in pyhton
-- 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on pyhton
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me deni.sousa@outlook.com
 
 <!---
